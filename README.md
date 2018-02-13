@@ -2,8 +2,8 @@
 
 My basic settings to start a new static project. Highly inspired on:
 
-* H5PB: [https://html5boilerplate.com/](https://html5boilerplate.com/)
-* Pikselkraft npm scripts: [https://github.com/pikselkraft/npm-scripts-boilerplate-XL]
+* [H5PB](https://html5boilerplate.com/)
+* [Pikselkraft npm scripts](https://github.com/pikselkraft/npm-scripts-boilerplate-XL)
 
 ## Quick start
 
@@ -12,8 +12,8 @@ Choose one of the following options:
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm run dist` that will create dist folder and copy src files 
-4. Run `npm watch` to notice changes on assets
-5. Run `npm browsersync` to enable localhost/refresh at any change
+4. Run `npm run watch` to notice changes on assets
+5. Run `npm run browsersync` to enable localhost/refresh at any change
 
 ## Features
 
