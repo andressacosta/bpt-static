@@ -24,7 +24,7 @@ Includes:
 * Useful CSS helper classes. [H5BP]
 * An optimized version of the Google Universal Analytics snippet. [H5PB]
 
-** TODO
+## TODO
 
 * Include default print styles
 * Include usefull mixins
